@@ -1,8 +1,10 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=3670A0&width=800&lines=Merhaba,+Ben+Kadir+Emir+Yucel;Yapay+Zeka+Gelistiricisi;Veri+Bilimcisi;Bilgisayar+Bilimleri+Ogrencisi" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Merhaba,+Ben+Kadir+Emir+Yucel;Yapay+Zeka+Gelistiricisi;Otonom+Sistemler+Uzmani;Veri+Bilimcisi" alt="Typing SVG" />
+</div>
 
-**Makine Ogrenimi, Veri Bilimi ve Otonom Sistemler Uzmani**
+<h3 align="center">Makine Ogrenimi, Veri Bilimi ve Otonom Sistemler Uzmani</h3>
+
+---
 
 ### Hakkimda
 
@@ -34,12 +36,20 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 
+**Araclar & Platformlar**
+<br>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+
 ---
 
 ### GitHub Istatistiklerim
 
-[![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir465&show_icons=true&theme=radical)](https://github.com/kadir465)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir465&layout=compact&theme=radical)](https://github.com/kadir465)
+<div align="center">
+  <img height="165em" src="https://kadir-stats.vercel.app/api?username=kadir465&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165em" src="https://kadir-stats.vercel.app/api/top-langs/?username=kadir465&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</div>
 
 ---
 
