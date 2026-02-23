@@ -1,18 +1,20 @@
-# Merhaba, Ben Kadir Emir Yücel 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=3670A0&width=800&lines=Merhaba,+Ben+Kadir+Emir+Yucel;Yapay+Zeka+Gelistiricisi;Veri+Bilimcisi;Bilgisayar+Bilimleri+Ogrencisi" alt="Typing SVG" />
+</p>
 
-**Yapay Zeka, Makine Öğrenimi ve Veri Bilimi Geliştiricisi | Bilgisayar Bilimleri Öğrencisi**
+**Makine Ogrenimi, Veri Bilimi ve Otonom Sistemler Uzmani**
 
-### Hakkımda
+### Hakkimda
 
-* 🎓 **Eğitim:** Dokuz Eylül Üniversitesi'nde Bilgisayar Bilimleri (Lisans) öğrencisiyim.
-* 🚀 **Uzmanlık Alanları:** Büyük Dil Modelleri (LLM), Bilgisayarli Görü (Computer Vision), Doğal Dil İşleme (NLP) ve Otonom Sistemler üzerine yoğunlaşıyorum.
-* 💡 **Deneyim:** Takım liderliği yaparak endüstriyel ve akademik projelerde yapay zeka mimarileri geliştiriyorum.
-* 💼 **Girişimcilik:** Eğitim teknolojileri ve akıllı şehir çözümleri alanlarında kurucu ortak olarak görev alıyor, tam kapsamlı (full-stack) çözümler üretiyorum.
-* 🔬 **İlgi Alanları:** Derin öğrenme algoritmaları, veri madenciliği ve sürdürülebilir teknoloji çözümleri.
+* **Egitim:** Dokuz Eylul Universitesi'nde Bilgisayar Bilimleri (Lisans) ogrencisiyim.
+* **Uzmanlik Alanlari:** Buyuk Dil Modelleri (LLM), Bilgisayarli Goru (Computer Vision), Dogal Dil Isleme (NLP) ve Otonom Sistemler uzerine yogunlasiyorum.
+* **Deneyim:** Takim liderligi yaparak endustriyel ve akademik projelerde yapay zeka mimarileri gelistiriyorum.
+* **Girisimcilik:** Egitim teknolojileri ve akilli sehir cozumleri alanlarinda kurucu ortak olarak gorev aliyor, tam kapsamli (full-stack) cozumler uretiyorum.
+* **Ilgi Alanlari:** Derin ogrenme algoritmalari, veri madenciligi ve surdurulebilir teknoloji cozumleri.
 
 ---
 
-### 🛠️ Teknik Yetkinlikler
+### Teknik Yetkinlikler
 
 **Yapay Zeka & Veri Bilimi**
 <br>
@@ -24,7 +26,7 @@
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
-**Yazılım Geliştirme & Diller**
+**Yazilim Gelistirme & Diller**
 <br>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -32,24 +34,16 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 
-**Araçlar & Platformlar**
-<br>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+---
+
+### GitHub Istatistiklerim
+
+[![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadir465&show_icons=true&theme=radical)](https://github.com/kadir465)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir465&layout=compact&theme=radical)](https://github.com/kadir465)
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kadir465&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadir465&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
----
-
-### 📬 Bana Ulaşın
+### Bana Ulasin
 
 <a href="https://www.linkedin.com/in/kadir-emir" target="_blank">
   <img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
