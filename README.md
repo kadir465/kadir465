@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Merhaba,+Ben+Kadir+Emir+Yucel;Yapay+Zeka+Gelistiricisi;Otonom+Sistemler+Uzmani;Veri+Bilimcisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Merhaba,+Ben+Kadir+Emir+Yucel;Yapay+Zeka+Gelistiricisi;Veri+Bilimcisi" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Makine Ogrenimi, Veri Bilimi ve Otonom Sistemler Uzmani</h3>
+<h3 align="center">Yapay Zeka , Makine Ogrenimi ve Veri Bilimi </h3>
 
 ---
 
@@ -10,7 +10,7 @@
 
 * **Egitim:** Dokuz Eylul Universitesi'nde Bilgisayar Bilimleri (Lisans) ogrencisiyim.
 * **Uzmanlik Alanlari:** Buyuk Dil Modelleri (LLM), Bilgisayarli Goru (Computer Vision), Dogal Dil Isleme (NLP) ve Otonom Sistemler uzerine yogunlasiyorum.
-* **Deneyim:** Takim liderligi yaparak endustriyel ve akademik projelerde yapay zeka mimarileri gelistiriyorum.
+* **Deneyim:** Endustriyel ve akademik projelerde yapay zeka mimarileri gelistiriyorum.
 * **Girisimcilik:** Egitim teknolojileri ve akilli sehir cozumleri alanlarinda kurucu ortak olarak gorev aliyor, tam kapsamli (full-stack) cozumler uretiyorum.
 * **Ilgi Alanlari:** Derin ogrenme algoritmalari, veri madenciligi ve surdurulebilir teknoloji cozumleri.
 
