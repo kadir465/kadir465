@@ -55,7 +55,7 @@
 
 ### Bana Ulasin
 
-<a href="https://www.linkedin.com/in/kadir-emir" target="_blank">
+<a href="https://www.linkedin.com/in/kadir-emir-y%C3%BCcel-55bb352a3/" target="_blank">
   <img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
 </a>
 <a href="mailto:kadiremiryucel123@gmail.com" target="_blank">
